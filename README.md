@@ -25,7 +25,7 @@
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/gustavo-muniz-15bb81257/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="linkedln.svg">
     </a>
 </div>
 
